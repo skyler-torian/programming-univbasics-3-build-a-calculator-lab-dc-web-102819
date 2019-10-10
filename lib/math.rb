@@ -17,7 +17,7 @@ num1 * num2
 end
 
 def modulo(num1, num2)
-  result = 
+  result = 34 % 5 
 end
 
 def square_root(num)
