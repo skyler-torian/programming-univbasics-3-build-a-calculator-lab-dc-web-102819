@@ -22,4 +22,3 @@ end
 def square_root(num)
 sqrt(num)
 end
-square_root(81)
