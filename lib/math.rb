@@ -20,5 +20,6 @@ result = 34 % 5
 end
 
 def square_root(num)
-math.sqrt(81)
+sqrt(num)
 end
+square_root(81)
