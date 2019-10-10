@@ -33,4 +33,3 @@ def square_root(num)
 math.qrt(81)
 puts square_root
 end
-square_root
